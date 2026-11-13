@@ -2,4 +2,4 @@
 
 Lina Yarovinsky
 Shahar Mizrachi 
-Viktoria Shmain 
+Victoria Shmain 
