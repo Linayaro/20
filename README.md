@@ -32,6 +32,10 @@
 ## שלב 5: סיום העבודה
 יש לוודא שהמערכת נמצאת במצב מנוחה, לסגור את הצג הסריאלי ולנתק את מקור המתח.
 
+## קישור לסימולציה:
+[המערכת ב-Tinkercad](https://www.tinkercad.com/things/7jYj4LZao2X-ardgroup20-voting-system/editel?sharecode=hVPNGgAfIHoowUMtK1InT-Z2N3Epv-qIgBJ1NSRkzvA)
+
+
 ## חברי הקבוצה
 - לינה יארובינסקי - Lina Yarovinsky
 - שחר מזרחי - Shahar Mizrachi 
