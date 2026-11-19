@@ -63,6 +63,6 @@
 
 ## חברי הקבוצה
 
-- לינה יארובינסקי – Lina Yarovinsky
-- שחר מזרחי – Shahar Mizrachi
-- ויקטוריה שמיין – Victoria Shmain
+- לינה יארובינסקי - Lina Yarovinsky
+- שחר מזרחי - Shahar Mizrachi
+- ויקטוריה שמיין - Victoria Shmain
